@@ -1,0 +1,29 @@
+.side-bar-product {
+    width: 1440px;
+    height: 313px;
+    position: relative;
+}
+.title {
+    width: 287px;
+    height: 83px;
+    display: flex;
+    align-items: center;
+    position: absolute;
+    top:102px;
+    left:580px;
+
+    font-weight: 700;
+    font-size:64px;
+    line-height: 83.2px;
+}
+.demo-text {
+    width: 600px;
+    text-align: center;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 32.4px;
+    color:#AFADB5;
+    position: absolute;
+    left:419px;
+    top:205px;
+}
