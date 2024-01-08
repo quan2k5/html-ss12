@@ -1,0 +1,34 @@
+header{
+    height:120px;
+    width: 1440px;
+    background-color:#FFFFFF;
+    border-bottom :2px solid #F3F3F3;
+    padding-left: 100px;
+    padding-right: 100px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.center-header{
+    width: 461px;
+    height: 32px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 60px;
+}
+.center-header-content{
+    font-weight: 500;
+    font-size: 18px;
+}
+.main-logo{
+    width: 130.05px;
+    height:42px;
+}
+.icon{
+    display: flex;
+    gap:14px;
+}
+.first{
+    color:#518581;
+}
